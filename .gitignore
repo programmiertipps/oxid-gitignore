@@ -6,7 +6,6 @@
 
 # Log
 /source/log/*
-!/source/log/.htaccess
 
 # Cache
 /source/cache/*
