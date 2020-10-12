@@ -1,0 +1,67 @@
+# Admin
+/source/admin/*
+
+# Configuration
+/source/config.inc.php
+
+# Log
+/source/log/*
+!/source/log/.htaccess
+
+# Cache
+/source/cache/*
+
+# Export
+/source/export/*
+
+# Module
+/source/modules/bestit
+/source/modules/ddoe
+/source/modules/fc
+/source/modules/oe
+/source/modules/oxps
+/source/modules/tc
+/source/modules/functions.php.dist
+
+# Temp
+/source/tmp/*
+!/source/tmp/.htaccess
+
+# Migration
+/source/migration/*
+
+# Composer
+/vendor/
+/composer.lock
+/composer.json
+/LICENSE
+
+# IDE (PHPSTORM)
+/source/.idea/*
+
+# Source root files
+/source/bootstrap.php
+/source/config.inc.php.dist
+/source/COPYING
+/source/favicon.ico
+/source/getimg.php
+/source/index.php
+/source/overridablefunctions.php
+/source/oxfunctions.php
+/source/oxseo.php
+/source/README
+/source/widget.php
+
+# Template files
+source/Application/views/flow
+source/Application/views/wave
+source/Application/views/admin
+source/Application/translations/*
+
+# Theme files
+source/out/flow
+source/out/wave
+source/out/admin
+source/out/downloads
+source/out/media
+source/out/pictures
