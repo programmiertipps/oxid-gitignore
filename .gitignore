@@ -36,6 +36,7 @@
 /LICENSE
 
 # IDE (PHPSTORM)
+.idea/*
 /source/.idea/*
 
 # Source root files
@@ -52,15 +53,15 @@
 /source/widget.php
 
 # Template files
-source/Application/views/flow
-source/Application/views/wave
-source/Application/views/admin
-source/Application/translations/*
+/source/Application/views/flow
+/source/Application/views/wave
+/source/Application/views/admin
+/source/Application/translations/*
 
 # Theme files
-source/out/flow
-source/out/wave
-source/out/admin
-source/out/downloads
-source/out/media
-source/out/pictures
+/source/out/flow
+/source/out/wave
+/source/out/admin
+/source/out/downloads
+/source/out/media
+/source/out/pictures
